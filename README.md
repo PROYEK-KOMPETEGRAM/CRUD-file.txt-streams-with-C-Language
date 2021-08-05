@@ -11,7 +11,6 @@ Repositori ini adalah kode sumber (*source code*) berbahasa pemrograman C++ pada
 - Nur 'Azizah Khoirunnisa 👩‍💻
 - Ravena 👩‍💻
 
-Kode sumber ini memiliki panduan khusus yang menjelaskan mengenai secara rinci. Berikut adalah panduan tautan panduan yang sudah rilis pada tanggal 05 Agustus 2021:
-[Link]
+Kode sumber ini memiliki panduan khusus yang menjelaskan mengenai secara rinci. Berikut adalah panduan tautan panduan yang sudah rilis pada tanggal 05 Agustus 2021: ``https://bit.ly/modul-ktg-crud-steams-cpp``
 
 Enjoy for code 😁
