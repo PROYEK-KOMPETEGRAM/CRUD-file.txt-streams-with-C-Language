@@ -14,4 +14,7 @@ Repositori ini adalah kode sumber (*source code*) berbahasa pemrograman C++ pada
 Kode sumber ini memiliki panduan khusus yang menjelaskan mengenai secara rinci. Berikut adalah panduan tautan panduan yang sudah rilis pada tanggal 05 Agustus 2021: 
 [`Modul CRUD File Streams C++`](https://bit.ly/modul-ktg-crud-steams-cpp "Modul CRUD File Streams C++")
 
+## Bug Code
+1. Apabila data banyak dan diupdate maka data di file.txt akan tidak tersusun secara teratur
+
 Enjoy for code 😁
