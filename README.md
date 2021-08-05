@@ -15,6 +15,6 @@ Kode sumber ini memiliki panduan khusus yang menjelaskan mengenai secara rinci. 
 [`Modul CRUD File Streams C++`](https://bit.ly/modul-ktg-crud-steams-cpp "Modul CRUD File Streams C++")
 
 ## Bug Code
-1. Apabila data banyak dan diupdate maka data di file.txt akan tidak tersusun secara teratur
+1. Apabila data banyak dan melakukan operasi update atau delete maka data di file.txt akan tidak tersusun secara teratur
 
 Enjoy for code 😁
